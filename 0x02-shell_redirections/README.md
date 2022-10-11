@@ -5,4 +5,5 @@ File 3-twofiles: a script that displays the contents of /etc/passwd and /etc/hos
 File 4-lastlines: a script that displays the last 10 lines of /etc/passwd
 File 5-firstlines: a script displaying the first 10 lines of /etc/passwd
 File 6-thirdline: a script that displays the third line of the file iacta
-File : 
+File 7-file: a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line
+File  
