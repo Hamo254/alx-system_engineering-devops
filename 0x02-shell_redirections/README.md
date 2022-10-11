@@ -7,4 +7,5 @@ File 5-firstlines: a script displaying the first 10 lines of /etc/passwd
 File 6-thirdline: a script that displays the third line of the file iacta
 File 7-file: a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line
 File 8-cwdstate: a script that writes into the file ls cwd content the result of the command ls -la. If the file ls cwd content already exists, it should be overwritten. If the file ls cwd content does not exist, create it
+File 9-duplicatelastline: a script that duplicates the last line of the file iacta
 File   
