@@ -24,3 +24,4 @@ File 22-users and homes: a script that displays all users and their home directo
 File 100-empty casks: a command that finds all empty files and directories in the current directory and all sub-directories
 File 101-gifs: a script that lists all the files with a .gif extension in the current directory and all its sub-directories
 File 102-acrostic: a script that decodes acrostics that use the first letter of each line
+File 103-the biggest fan: a script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests
