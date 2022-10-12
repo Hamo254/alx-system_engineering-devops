@@ -22,3 +22,4 @@ File 20-hiago: a script that removes all letters c and C from input
 File 21-reverse: a script that reverse its input
 File 22-users and homes: a script that displays all users and their home directories, sorted by users
 File 100-empty casks: a command that finds all empty files and directories in the current directory and all sub-directories
+File 101-gifs: a script that lists all the files with a .gif extension in the current directory and all its sub-directories
