@@ -10,3 +10,4 @@ File 8-true knowledge: a script that prints the result of the addition of 128 wi
 File 9-divide and rule: a script that prints the result of POWER divided by DIVIDE, followed by a new line
 File 10-love exponent breath: a script that displays the result of BREATH to the power LOVE
 File 11-binary to decimal: a script that converts a number from base 2 to base 10
+File 12-combinations: a script that prints all possible combinations of two letters, except oo
