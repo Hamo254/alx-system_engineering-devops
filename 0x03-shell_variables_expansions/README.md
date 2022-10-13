@@ -7,4 +7,4 @@ File 5-local variables: a script that lists all local variables and environment 
 File 6-create local variable: a script that creates a local variable best and assigns a value school
 File 7-create global variable: a script that creates a global variable BEST and assigns a value School
 File 8-true knowledge: a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line
-
+File 9-divide and rule: a script that prints the result of POWER divided by DIVIDE, followed by a new line
