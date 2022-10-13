@@ -5,3 +5,4 @@ File 3-paths: a script that counts the number of directories in the PATH
 File 4-global variables: a script that lists environment variables
 File 5-local variables: a script that lists all local variables and environment variables, and functions
 File 6-create local variable: a script that creates a local variable best and assigns a value school
+File 7-create global variable: a script that creates a global variable BEST and assigns a value School
