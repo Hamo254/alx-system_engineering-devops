@@ -14,3 +14,5 @@ File 12-combinations: a script that prints all possible combinations of two lett
 File 13-print float: a script that prints a number with two decimal places, followed by a new line
 File 100-decimal to hexadecimal:  a script that converts a number from base 10 to base 16
 File 101-rot13: a script that encodes and decodes text using the rot13 encryption
+File 102-odd: a script that prints every other line from the input, starting with the first line
+File 103-water and stir: a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result
